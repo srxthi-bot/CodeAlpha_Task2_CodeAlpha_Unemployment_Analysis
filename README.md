@@ -137,7 +137,7 @@ This chart highlights regions with relatively lower unemployment rates.
 
 ### 6. Rural vs Urban Unemployment
 
-![Urban vs Rural](images/urban vs rural.png)
+![Urban vs Rural](images/urban%20vs%20rural.png)
 
 This visualization compares unemployment rates between urban and rural areas.
 
