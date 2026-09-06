@@ -137,7 +137,7 @@ This chart highlights regions with relatively lower unemployment rates.
 
 ### 6. Rural vs Urban Unemployment
 
-![Urban vs Rural](images/urban%20vs%20rural.png)
+![Urban vs Rural](images/urban vs rural.png)
 
 This visualization compares unemployment rates between urban and rural areas.
 
@@ -153,7 +153,7 @@ This chart examines monthly variations and possible seasonal patterns in unemplo
 
 ### 8. Unemployment vs Labour Participation
 
-![Unemployment vs Labour Participation](images/unemployment%20vs%20labour_participation.png)
+![Unemployment vs Labour Participation](images/unemployment vs labour_participation.png)
 
 This visualization examines the relationship between unemployment rate and labour participation rate.
 ## Key Findings
