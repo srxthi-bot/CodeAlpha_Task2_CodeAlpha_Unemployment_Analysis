@@ -105,7 +105,7 @@ This chart shows the distribution of unemployment rates across the dataset.
 
 ### 2. Unemployment Rate Trend Over Time
 
-![Unemployment Trend](images/unemployment_trend.png)
+![Unemployment Trend](images/unemployment_trend.png.png)
 
 This chart shows how unemployment rates changed over time.
 
