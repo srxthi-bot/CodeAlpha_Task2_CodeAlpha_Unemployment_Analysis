@@ -97,7 +97,7 @@ participation rate.
 
 ### 1. Unemployment Rate Distribution
 
-![Unemployment Rate Distribution](images/unemployment_distribution.png)
+![Unemployment Rate Distribution](images/distribution%20of%20unemployment%20rate.png)
 
 This chart shows the distribution of unemployment rates across the dataset.
 
@@ -121,7 +121,7 @@ This visualization highlights changes in unemployment during the COVID-19 period
 
 ### 4. Regional Unemployment Analysis
 
-![Regional Unemployment](images/top1_average_unemployment.png)
+![Regional Unemployment](images/top1_average_employment.png)
 
 This visualization compares unemployment levels across different regions.
 
@@ -145,7 +145,7 @@ This visualization compares unemployment rates between urban and rural areas.
 
 ### 7. Seasonal Unemployment Analysis
 
-![Seasonal Analysis](images/seasonal_analysis.png)
+![Seasonal Analysis](images/seasonal_analysis.png.png)
 
 This chart examines monthly variations and possible seasonal patterns in unemployment.
 
@@ -153,7 +153,7 @@ This chart examines monthly variations and possible seasonal patterns in unemplo
 
 ### 8. Unemployment vs Labour Participation
 
-![Unemployment vs Labour Participation](images/unemployment vs labour_participation.png)
+![Unemployment vs Labour Participation](images/unemployment%20vs%20labour_participation.png.png)
 
 This visualization examines the relationship between unemployment rate and labour participation rate.
 ## Key Findings
